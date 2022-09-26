@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /
+---
+
 
 ![Knowledge Embedding](/figures/logo.png)
 
