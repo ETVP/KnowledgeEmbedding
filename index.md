@@ -5,6 +5,7 @@ Knowledgeeembedding
 
 ## News and updates
 
+* Sept. 26, 2022: Initial webpage rendering!
 * Sept. 28, 2022: Update the document！
 
 ## Overview
