@@ -52,10 +52,11 @@ Welcome to the Knowledge Embedding Dataset project!
 * Hou Z, Yu B, Qiao Y, et al. Affordance transfer learning for human-object interaction detection[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021: [495-504](https://openaccess.thecvf.com/content/CVPR2021/html/Hou_Affordance_Transfer_Learning_for_Human-Object_Interaction_Detection_CVPR_2021_paper.html).
 * Morais R, Le V, Venkatesh S, et al. Learning asynchronous and sparse human-object interaction in videos[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021: [16041-16050](https://openaccess.thecvf.com/content/CVPR2021/html/Morais_Learning_Asynchronous_and_Sparse_Human-Object_Interaction_in_Videos_CVPR_2021_paper.html).
 * Liu R, Zheng G, Gupta S, et al. Knowledge infused decoding[J]. arXiv preprint arXiv:[2204.03084](https://arxiv.org/abs/2204.03084), 2022.
-* Zhuo T, Cheng Z, Zhang P, et al. Explainable video action reasoning via prior knowledge and state transitions[C]//Proceedings of the 27th acm international conference on multimedia. 2019: [521-529](https://scholarbank.nus.edu.sg/handle/10635/167786).
+* Zhuo T, Cheng Z, Zhang P, et al. Explainable video action reasoning via prior knowledge and state transitions[C]//Proceedings of the 27th acm international conference on multimedia. 2019: [521-529]().
 * Hua H, Li D, Li R, et al. Towards Explainable Action Recognition by Salient Qualitative Spatial Object Relation Chains[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2022, 36(5): [5710-5718](https://ojs.aaai.org/index.php/AAAI/article/view/20513).
 * Chen J, Wu X, Hu Y, et al. Spatial-temporal causal inference for partial image-to-video adaptation[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(2): [1027-1035](https://ojs.aaai.org/index.php/AAAI/article/view/16187).
 * Kim D J, Sun X, Choi J, et al. Detecting human-object interactions with action co-occurrence priors[C]//European Conference on Computer Vision. Springer, Cham, 2020: [718-736](https://linkspringer.53yu.com/chapter/10.1007/978-3-030-58589-1_43).
+
 ## Sponsors
 
 ...
