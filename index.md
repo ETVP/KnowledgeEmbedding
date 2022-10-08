@@ -69,6 +69,17 @@ Welcome to the Knowledge Embedding Dataset project!
 * Liu R, Zheng G, Gupta S, et al. Knowledge infused decoding[J]. arXiv preprint arXiv:[2204.03084](https://arxiv.org/abs/2204.03084), 2022.
 * Hua H, Li D, Li R, et al. Towards Explainable Action Recognition by Salient Qualitative Spatial Object Relation Chains[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2022, 36(5): [5710-5718](https://ojs.aaai.org/index.php/AAAI/article/view/20513).
 
+### MOE 
+
+* Valada A, Dhall A, Burgard W. Convoluted mixture of deep experts for robust semantic segmentation[C]//IEEE/RSJ International conference on intelligent robots and systems (IROS) workshop, state estimation and terrain perception for all terrain mobile robots. [2016](http://www.lifelong-navigation.eu/files/valada16irosws.pdf), 2.
+* Fu H, Gong M, Wang C, et al. MoE-SPNet: A mixture-of-experts scene parsing network[J]. Pattern Recognition, 2018, 84: [226-236](https://www.sciencedirect.com/science/article/pii/S0031320318302541).
+* Wang X, Yu F, Dunlap L, et al. Deep mixture of experts via shallow embedding[C]//Uncertainty in artificial intelligence. PMLR, 2020: [552-562](http://proceedings.mlr.press/v115/wang20d.html).
+* Minaee S, Boykov Y Y, Porikli F, et al. Image segmentation using deep learning: A survey[J]. IEEE transactions on pattern analysis and machine intelligence, [2021](https://ieeexplore.ieee.org/abstract/document/9356353).
+* Riquelme C, Puigcerver J, Mustafa B, et al. Scaling vision with sparse mixture of experts[J]. Advances in Neural Information Processing Systems, 2021, 34: [8583-8595](https://proceedings.neurips.cc/paper/2021/hash/48237d9f2dea8c74c2a72126cf63d933-Abstract.html).
+* Fedus W, Dean J, Zoph B. A review of sparse expert models in deep learning[J]. arXiv preprint arXiv:[2209.01667](https://arxiv.org/abs/2209.01667), 2022.
+* Pavlitskaya S, Hubschneider C, Struppek L, et al. Balancing Expert Utilization in Mixture-of-Experts Layers Embedded in CNNs[J]. arXiv preprint arXiv:[2204.10598](https://arxiv.org/abs/2204.10598), 2022.
+* Fingscheidt T, Gottschalk H, Houben S. Deep Neural Networks and Data for Automated Driving: Robustness, Uncertainty Quantification, and Insights Towards Safety[J]. [2022](https://library.oapen.org/handle/20.500.12657/57375).
+* Ou Y, Yuan Y, Huang X, et al. Patcher: Patch Transformers with Mixture of Experts for Precise Medical Image Segmentation[J]. arXiv preprint arXiv:[2206.01741](https://arxiv.org/abs/2206.01741), 2022.
 ## Sponsors
 
 ...
