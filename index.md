@@ -26,6 +26,7 @@ Welcome to the Knowledge Embedding Dataset project!
 ....
 
 ## References
+
 ### Knowledge Injection and Visual concept extraction
 
 * Hu Z, Ma X, Liu Z, et al. Harnessing deep neural networks with logic rules[J]. arXiv preprint arXiv:[1603.06318](https://arxiv.org/abs/1603.06318), 2016.
@@ -35,7 +36,9 @@ Welcome to the Knowledge Embedding Dataset project!
 * Ge Y, Xiao Y, Xu Z, et al. A peek into the reasoning of neural networks: Interpreting with structural visual concepts[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [2021: 2195-2204](https://openaccess.thecvf.com/content/CVPR2021/html/Ge_A_Peek_Into_the_Reasoning_of_Neural_Networks_Interpreting_With_CVPR_2021_paper.html).
 * Shevchenko V, Teney D, Dick A, et al. Reasoning over vision and language: Exploring the benefits of supplemental knowledge[J]. arXiv preprint arXiv:[2101.06013](https://arxiv.org/abs/2101.06013), 2021.
 * Sharifzadeh S, Baharlou S M, Tresp V. Classification by attention: Scene graph classification with prior knowledge[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(6): [5025-5033](https://ojs.aaai.org/index.php/AAAI/article/view/16636).
+
 ### Knowledge Guide
+
 * Marino K, Salakhutdinov R, Gupta A. The more you know: Using knowledge graphs for image classification[J]. arXiv preprint arXiv:[1612.04844](https://arxiv.org/abs/1612.04844), 2016.
 * Marino K, Salakhutdinov R, Gupta A. The more you know: Using knowledge graphs for image classification[J]. arXiv preprint arXiv:[1612.04844](https://arxiv.org/abs/1612. 04844), 2016.
 * Fang Y, Kuan K, Lin J, et al. Object detection meets knowledge graphs[C]. International Joint Conferences on Artificial Intelligence, [2017](https://ink.library.smu.edu.sg/sis_research/4067/).
@@ -50,7 +53,9 @@ Welcome to the Knowledge Embedding Dataset project!
 * Yu F, Tang J, Yin W, et al. Ernie-vil: Knowledge enhanced vision-language representations through scene graphs[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(4): [3208-3216](https://ojs.aaai.org/index.php/AAAI/article/view/16431).
 * Sharifzadeh S, Baharlou S M, Tresp V. Classification by attention: Scene graph classification with prior knowledge[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(6): [5025-5033](https://ojs.aaai.org/index.php/AAAI/article/view/16636).
 * Dash, Tirtharaj, et al. "A review of some techniques for inclusion of domain-knowledge into deep neural networks." Scientific Reports 12.1 (2022): [1-15](https://wwwnature.53yu.com/).
+
 ### KG-HOI
+
 * Li Y L, Zhou S, Huang X, et al. Transferable interactiveness knowledge for human-object interaction detection[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019: [3585-3594](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Transferable_Interactiveness_Knowledge_for_Human-Object_Interaction_Detection_CVPR_2019_paper.html).
 * Xu B, Wong Y, Li J, et al. Learning to detect human-object interactions with knowledge[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Xu_Learning_to_Detect_Human-Object_Interactions_With_Knowledge_CVPR_2019_paper.html).
 * Zhuo T, Cheng Z, Zhang P, et al. Explainable video action reasoning via prior knowledge and state transitions[C]//Proceedings of the 27th acm international conference on multimedia. 2019: [521-529]().
